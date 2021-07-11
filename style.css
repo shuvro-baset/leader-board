@@ -1,0 +1,18 @@
+/* common css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f3f1ff;
+}
+main {
+  width: 870px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+section {
+  background-color: rgb(221, 124, 124);
+  border: 1px solid red;
+  justify-content: center;
+}
